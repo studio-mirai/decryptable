@@ -1,0 +1,10 @@
+[package]
+name = "Decryptable"
+edition = "2024.beta"
+license = "Apache 2.0"
+authors = ["Studio Mirai, LLC (dev@sm.xyz)"]
+
+[dependencies]
+
+[addresses]
+decryptable = "0x0"
